@@ -21,9 +21,12 @@ Simulates the "Standard Banner" Gacha in Genshin impact in which:
 - You can also customize your own Banner, with your own elements be it 4 star, 3 star, or 5 star items and characters, with your own defined rates.
 - This 'Personalized Banner' shares the same Hard and Soft pity mechanics with the Standard Banner.
 
-*Best practices used:              *Creational - Singleton
-- <2000 lines in src               *Structural - Facade
-- Naming                           *Behavioral - Iterator
+*Creational - Singleton
+*Structural - Facade
+*Behavioral - Iterator
+*Best practices used:              
+- <2000 lines in src               
+- Naming                           
 - if-checks, indentations
 - documentation
 - exceptions
