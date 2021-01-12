@@ -14,7 +14,7 @@ Simulates the "Standard Banner" Gacha in Genshin impact in which:
 - Each 'Pull' from this Gacha simulator iterates through the random number generators in a method and returns a particular String from the Given parameters.
 - 5 star weapons and characters have a Base Rate of .6% of dropping, and 4 star weapons/characters have a 5.1% rate
 - "Hard Pity": If you've already had 89 'Pulls' from this Banner that no 5 star item/character is getting returned, the next pull (90th), will return a 5 star
--            : If you've already had 9 'Pulls' from this Banner that no 4 star weapon/character is getting returned, the next pull (10th), will return a 4 star
+-            - If you've already had 9 'Pulls' from this Banner that no 4 star weapon/character is getting returned, the next pull (10th), will return a 4 star
  
 - "Soft Pity": If you're in the 60th and above 'Pull' without getting a 5 star weapon/character, the preceeding 'Pulls' will have their 5 and 4 star rate drops increased.
 
